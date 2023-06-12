@@ -1,8 +1,21 @@
-# Whatsapp Application
+# Whatsapp Application 
 
-- 🔮 Source Code ([Here](https://github.com/hamza-140/Whatsapp-Clone/blob/6bccd20f1148dfca68e9526c66f2f3a6037e3690/app/src/main/java/com/example/whatsappclone/MainActivity.kt))
+This is an Android application that aims to replicate the functionality and design of the popular messaging app, WhatsApp. The app is built using Kotlin and Jetpack Compose.
 
-- 📺 Sample Output:
+<h2> Features ⚙️</h2>
+
+- Main Screen: Displays a list of chats with contacts.
+- Detail Screen: Shows the details of a selected chat, including the contact's name and profile picture.
+- Search: Allows users to search for specific chats.
+- New Chat: Enables users to start a new chat with a contact.
+- Exit WhatsApp: Displays an alert dialog to confirm exiting the app.
+
+
+<h2> Source Code 🔮</h2>
+
+([Here](https://github.com/hamza-140/Whatsapp-Clone/blob/6bccd20f1148dfca68e9526c66f2f3a6037e3690/app/src/main/java/com/example/whatsappclone/MainActivity.kt))
+
+<h2> Screenshots 🖼️</h2>
 
 ![image](https://github.com/hamza-140/Whatsapp-Clone/assets/80567400/2394053e-9035-47d9-b53b-7b1c596e99e5)  
 
